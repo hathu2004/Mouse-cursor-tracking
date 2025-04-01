@@ -31,7 +31,7 @@ namespace mouse_cursor
             _transitionStats = transitionStats;
             List<AoiStats> sortedList = _aoiStats.OrderBy(x => x.AoiName).ToList();
             DisplayAoiStats(dataGridView1, sortedList);
-            var sortedDict = _transitionStats.OrderByDescending(x => x.Value)
+            var sortedDict = _transitionStats.OrderBy(x => x.Key)
                               .ToDictionary(x => x.Key, x => x.Value);
             DisplayTransitionStats(dataGridView2, sortedDict);
         }

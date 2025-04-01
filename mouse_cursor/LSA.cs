@@ -100,7 +100,7 @@ namespace mouse_cursor
         public Dictionary<string, double[]> CountConsecutiveAoisLinq()
         {
             List<string> aoiList = _aoiPoints.Select(a => a.AoiName).ToList();
-            const double interval = 0.05;
+            const double interval = 0.1;
             return aoiList
                 .Select((aoi, index) => new { Aoi = aoi, Index = index })
                 .GroupBy(x => x.Aoi)

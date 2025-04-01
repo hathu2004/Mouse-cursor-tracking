@@ -25,7 +25,7 @@ namespace mouse_cursor
             this.WindowState = FormWindowState.Maximized; // <= Fullscreen
             mousePositions = new List<Point>();
             timer = new Timer();
-            timer.Interval = 50; // log every 50ms
+            timer.Interval = 100; // log every 100ms
             timer.Tick += Timer_Tick;
 
             islogging = false;
