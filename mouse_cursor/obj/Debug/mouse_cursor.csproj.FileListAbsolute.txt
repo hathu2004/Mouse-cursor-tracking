@@ -1,0 +1,17 @@
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\mouse_cursor.exe.config
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\mouse_cursor.exe
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\mouse_cursor.pdb
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.csproj.AssemblyReference.cache
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.Form1.resources
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.Properties.Resources.resources
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.csproj.GenerateResource.cache
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.csproj.CoreCompileInputs.cache
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.exe
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.pdb
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.HeatmapPreviewForm.resources
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\MathNet.Numerics.dll
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\System.ValueTuple.dll
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\MathNet.Numerics.xml
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\bin\Debug\System.ValueTuple.xml
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cursor.LSA_form.resources
+D:\eye-tracking\Mouse\mouse_cursor\mouse_cursor\obj\Debug\mouse_cu.3FFCEC1B.Up2Date
